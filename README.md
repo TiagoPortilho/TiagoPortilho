@@ -18,7 +18,7 @@ I'm a passionate developer who loves exploring new technologies and solving real
 - 🔭 Currently working on various full-stack projects
 - 🌱 Always learning and experimenting with new tech
 - 💡 Interested in backend development, data structures, and system design
-- 🎯 Goal: Build meaningful applications that make a difference fun stuff
+- 🎯 Goal: Build meaningful applications that make a difference or just fun stuff
 
 ---
 
