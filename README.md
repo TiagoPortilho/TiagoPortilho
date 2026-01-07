@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate developer who loves exploring new technologies and solving real-world problems through code. I believe in continuous learning and enjoy the journey of turning ideas into reality.
 
@@ -20,7 +20,7 @@ I'm a passionate developer who loves exploring new technologies and solving real
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   
@@ -31,7 +31,7 @@ I'm a passionate developer who loves exploring new technologies and solving real
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 <div align="center">
 
 ### Languages
@@ -70,7 +70,7 @@ I'm a passionate developer who loves exploring new technologies and solving real
 ---
 
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 ![Tiago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TiagoPortilho&theme=react-dark&hide_border=true&area=true)
 
