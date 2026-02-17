@@ -1,4 +1,4 @@
-# Hi, I'm Tiago 👋
+ # Hi, I'm Tiago 👋
 
 **Curious about how things work, learning as I go, and always building something.**
 
@@ -20,16 +20,6 @@ I'm a passionate developer who loves exploring new technologies and solving real
 - 💡 Interested in backend development, data structures, and system design
 - 🎯 Goal: Build meaningful applications that make a difference or just fun stuff
 
----
-
-##  GitHub Stats
-
-<div align="center">
-  
-![Tiago's GitHub stats](https://github-readme-stats-tiagoportilho.vercel.app/api?username=TiagoPortilho&show_icons=true&theme=dracula) ![Top Languages](https://github-readme-stats-tiagoportilho.vercel.app/api/top-langs/?username=TiagoPortilho&layout=compact&theme=dracula)
-
-
-</div>
 
 ---
 
